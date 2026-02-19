@@ -13,6 +13,7 @@
                 felajanlasok.Add(new Felajanlas(db, sor[0], sor[1], Convert.ToChar(sor[2])));
             }
             sr.Close();
+            Console.WriteLine($"2. feladat\nA felajánlások száma: {db}");
         }
     }
 }

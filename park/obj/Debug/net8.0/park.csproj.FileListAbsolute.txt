@@ -1,0 +1,16 @@
+C:\Users\zelenaksz\source\repos\park\park\bin\Debug\net8.0\park.exe
+C:\Users\zelenaksz\source\repos\park\park\bin\Debug\net8.0\park.deps.json
+C:\Users\zelenaksz\source\repos\park\park\bin\Debug\net8.0\park.runtimeconfig.json
+C:\Users\zelenaksz\source\repos\park\park\bin\Debug\net8.0\park.dll
+C:\Users\zelenaksz\source\repos\park\park\bin\Debug\net8.0\park.pdb
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\park.AssemblyInfoInputs.cache
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\park.AssemblyInfo.cs
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\park.csproj.CoreCompileInputs.cache
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\park.sourcelink.json
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\park.dll
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\refint\park.dll
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\park.pdb
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\park.genruntimeconfig.cache
+C:\Users\zelenaksz\source\repos\park\park\obj\Debug\net8.0\ref\park.dll
+C:\Users\zelenaksz\source\repos\park\park\bin\Debug\net8.0\felajanlas.txt
