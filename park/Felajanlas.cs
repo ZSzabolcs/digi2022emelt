@@ -9,11 +9,11 @@ namespace park
     public class Felajanlas
     {
         private string? db;
-        private string? tol;
-        private string? ig;
+        private int? tol;
+        private int? ig;
         private char? szin;
 
-        public Felajanlas(string? db, string? tol, string? ig, char? szin)
+        public Felajanlas(string? db, int? tol, int? ig, char? szin)
         {
             this.Db = db;
             this.Tol = tol;
@@ -22,8 +22,8 @@ namespace park
         }
 
         public string? Db { get => db; set => db = value; }
-        public string? Tol { get => tol; set => tol = value; }
-        public string? Ig { get => ig; set => ig = value; }
+        public int? Tol { get => tol; set => tol = value; }
+        public int? Ig { get => ig; set => ig = value; }
         public char? Szin { get => szin; set => szin = value; }
     }
 }
