@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zelenaksz\\source\\repos\\park\\park\\park.csproj",
+      "projectUniqueName": "C:\\Users\\zelenaksz\\Desktop\\zsa\\digi2022emelt\\park\\park.csproj",
       "projectName": "park",
-      "projectPath": "C:\\Users\\zelenaksz\\source\\repos\\park\\park\\park.csproj",
+      "projectPath": "C:\\Users\\zelenaksz\\Desktop\\zsa\\digi2022emelt\\park\\park.csproj",
       "packagesPath": "C:\\Users\\zelenaksz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zelenaksz\\source\\repos\\park\\park\\obj\\",
+      "outputPath": "C:\\Users\\zelenaksz\\Desktop\\zsa\\digi2022emelt\\park\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
