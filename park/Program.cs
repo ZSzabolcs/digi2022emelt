@@ -14,7 +14,7 @@
             }
             sr.Close();
             Console.WriteLine($"2. feladat\nA felajánlások száma: {db}\n");
-            Console.WriteLine("3.feladat\nA bejárat bal és jobb oldalát is beültető(k) sorszáma(i):");
+            Console.WriteLine("3. feladat\nA bejárat bal és jobb oldalát is beültető(k) sorszáma(i):");
             for (int i = 0; i < felajanlasok.Count; i++)
             {
                 if (felajanlasok[i].Tol > felajanlasok[i].Ig)
@@ -22,6 +22,17 @@
                     Console.Write($"{i} ");
                 }
             }
+            Console.Write("\n4. feladat\nSorszám: ");
+            int sorszam = Convert.ToInt32(Console.ReadLine());
+            int felajanlasdb = 0;
+            foreach (var item in felajanlasok)
+            {
+                if (item.Tol <= sorszam && item.Ig >= sorszam)
+                {
+                    felajanlasdb++;
+                }
+            }
+            Console.WriteLine($"Felajánlások száma: {felajanlasdb}");
         }
     }
 }
