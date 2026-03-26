@@ -41,6 +41,22 @@
                     break;
                 }
             }
+            HashSet<char> szinek = new HashSet<char>();
+            foreach (var item in felajanlasok)
+            {
+                if (item.Tol <= sorszam && item.Ig >= sorszam)
+                {
+                    szinek.Add(Convert.ToChar(item.Szin));
+                }
+            }
+            if(szinek.Count > 0)
+            {
+                Console.Write($"A virágágyás színei:");
+                foreach (var item in szinek)
+                {
+                    Console.Write($" {item}");
+                }
+            }
         }
     }
 }
