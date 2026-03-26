@@ -33,6 +33,14 @@
                 }
             }
             Console.WriteLine($"Felajánlások száma: {felajanlasdb}");
+            foreach (var item in felajanlasok)
+            {
+                if (item.Tol <= sorszam && item.Ig >= sorszam)
+                {
+                    Console.WriteLine($"A virágágyás színe, ha csak az első felajánló ültet: {item.Szin}");
+                    break;
+                }
+            }
         }
     }
 }
